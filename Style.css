@@ -22,11 +22,11 @@
 #gauche{
     width: 35%;
     height: auto;
-    background-color: #000;
+    background-color: brown;
     color: #fff;
 }
 .image img{
-    border: 1px solid var(--bleuClaire);
+    border: 1px solid black;
     height: 164px;
     width: 164px;
     border-radius: 50%;
