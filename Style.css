@@ -16,7 +16,7 @@
 /* DEFINITION DES VARIABLES COULEURS  */
 :root{
     --bleu: #030C5A;
-    --bleuClaire: #007AD2;
+    --bleuClaire: #black;
     --blanc: #fff;
 }
 #gauche{
